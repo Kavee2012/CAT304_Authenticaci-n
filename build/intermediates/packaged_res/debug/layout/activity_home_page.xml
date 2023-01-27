@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawerLayout"
+    android:fitsSystemWindows="true"
+    android:minWidth="19dp"
+
+    >
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:background="#F7FFFFFF"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:id="@+id/Selection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F7FFFFFF"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#193498"
+                app:subtitleTextColor="#0A0A0A"
+                app:titleTextColor="#111111" />
+
+
+            <Button
+                android:id="@+id/Generate_OTP"
+                android:layout_width="291dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="150dp"
+                android:text="        Generate OTP       " />
+
+            <Button
+                android:id="@+id/Password_Manager"
+                android:layout_width="293dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/plumbing"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="20dp"
+                android:text="           Password Manager       " />
+
+            <Button
+                android:id="@+id/Password_Generator"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/plumbing"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="20dp"
+                android:text="        Password Generator     " />
+            <Button
+                android:id="@+id/Logout_Btn"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/plumbing"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="20dp"
+                android:text="        Logout     " />
+
+
+        </LinearLayout>
+    </ScrollView>
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navigation_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+
+        >
+    </com.google.android.material.navigation.NavigationView>
+</androidx.drawerlayout.widget.DrawerLayout>
