@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\drawable-v24_timer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\drawable-v24\\timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_passwordgenarator.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_passwordgenarator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_display_box.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\display_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_password_manager.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_password_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.auntentication.app-merged_res-30:/layout_activity_real_view_password.xml.flat",
+        "source": "com.example.auntentication.app-main-32:/layout/activity_real_view_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_otp_generating.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_otp_generating.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_save_password.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_save_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_display_password.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_display_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.example.auntentication.app-main-32:\\layout\\activity_main.xml"
+    }
+]
